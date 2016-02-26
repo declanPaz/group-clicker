@@ -1,0 +1,57 @@
+
+
+
+.errors {
+	color:red;
+	font-style: italic;
+	background-color:yellow;
+}
+
+
+.wrapper {
+	display:inline-block;
+}
+
+.circle {
+	background-color: gray;
+	border: 3px solid black;
+	width: 50px;
+	height:50px;
+	border-radius: 50%;
+	display:inline-block;
+	font-size:35px;
+	text-align:center;
+}
+
+.unsorted {
+	border: 3px solid black;
+	min-width: 300px;
+	min-height: 100px;
+}
+
+.sortable {
+	display:inline-block;
+}
+
+.a {
+	border: 3px solid black;
+	min-width: 300px;
+	min-height: 100px;
+}
+
+.b {
+	border: 3px solid black;
+	min-width: 300px;
+	min-height: 100px;
+} 
+.c { 
+	border: 3px solid black;
+	min-width: 300px;
+	min-height: 100px;
+}
+
+.picked {
+	border: 10px solid red !important;
+	background-color:yellow !important;
+}
+
